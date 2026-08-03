@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Hi+there%2C+I'm+Rishabh+Prasad+%F0%9F%91%8B;BS+in+Data+Science+%40+IIT+Madras;Building+AI+Agents+that+think+for+themselves;Full-Stack+Engineer+%7C+ML%2FAI+Enthusiast"/>
-
 </h1>
 
 <p align="center">
@@ -37,8 +36,8 @@
 # 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api/top-langs/?username=Rishabh221004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh221004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
