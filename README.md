@@ -141,18 +141,18 @@ React 19 • FastAPI • PostgreSQL • Gemini API
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh221004&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api/top-langs/?username=Rishabh221004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh221004&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=Rishabh221004&theme=tokyonight&hide_border=true"/>
 
 </p>
 
