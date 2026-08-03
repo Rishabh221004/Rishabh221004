@@ -35,7 +35,7 @@
 
 # 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
 
 <img
 height="170"
@@ -52,7 +52,7 @@ src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app
 <img
 src="https://streak-stats.demolab.com?user=Rishabh221004&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
