@@ -82,24 +82,13 @@
 
 ---
 
-
-
-<!-- <div align="center">
+📊 GitHub Stats
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true&v=2"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh221004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>### 📊 GitHub Stats
-https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api?username=Rishabh221004&show_icons=true&theme=tokyonight&hide_border=true
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Rishabh221004&theme=tokyonight&hide_border=true"/>
-
-</div> -->
+src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app/api/top-langs/?username=Rishabh221004&layout=compact&theme=tokyonight&hide_border=true&v=2"/>
 
 ---
 
