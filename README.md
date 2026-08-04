@@ -113,11 +113,11 @@ src="https://streak-stats.demolab.com?user=Rishabh221004&theme=tokyonight&hide_b
 
 ---
 
-### 🏆 Trophy Room
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabh221004&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
+
+<!-- <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rishabh221004&theme=tokyonight&no-frame=true&row=1&column=7"/>### 🏆 Trophy Room
+</div> -->
 
 ---
 
