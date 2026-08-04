@@ -120,4 +120,4 @@ src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app
 
 <p align="center"><i>"Code is temporary. Impact is permanent."</i></p>
 
-readme snake is working fine only issue with github stats
+
