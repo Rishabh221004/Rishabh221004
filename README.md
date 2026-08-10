@@ -105,7 +105,7 @@ src="https://github-readme-stats-git-master-rishabh-prasad-s-projects.vercel.app
 
 
 <!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabh221004&theme=tokyonight&no-frame=true&row=1&column=7"/>### 🏆 Trophy Room
+<img src="https://github-profile-trophy.vercel.app/?username=Rishabh221004&theme=tokyonight&no-frame=true&row=1&column=7"/>### 🏆 Trophy Room 
 </div> -->
 
 ---
